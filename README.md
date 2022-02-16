@@ -1,4 +1,4 @@
-# Japanese-error-codes
+# Japanese-error-file-names
 日语乱码转换器
 
 屑程序的一点介绍：
